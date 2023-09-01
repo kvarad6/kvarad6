@@ -6,11 +6,6 @@ Hi, I'm Varad Kulkarni!
 </h1>
 <p align="center">
 	<a href="https://github.com/kvarad6">
-<!-- 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" /> -->
-	</a>
-<!-- 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a> -->
 </p>
 <br/>
 <p align="center">
@@ -23,7 +18,7 @@ Hi, I'm Varad Kulkarni!
 
 <pre>
 💻 I am a Software Engineer
-📚 I have a Bachelors in Computer Science from the VIIT, Pune
+📚 I have a Bachelors in Information Technology from the VIIT, Pune
 📝 I have a strong interest in Backend Technologies 
 🔭 Working on Cloud & Machine Learning Applications
 🌟 Main languages: Python, JavaScript
@@ -38,8 +33,6 @@ Hi, I'm Varad Kulkarni!
 	<a href="https://www.linkedin.com/in/varad-kulkarni-2001/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/kvarad6"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
