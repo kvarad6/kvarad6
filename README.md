@@ -9,10 +9,10 @@ Hi, I'm Varad Kulkarni!
 </p> -->
 <br/>
 <p align="center">
-	<a href="">
+<!-- 	<a href=""> -->
 <!-- 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"> -->
-		<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=380&height=45&lines=IT+Student;Full+Stack+Web+Developer;Cloud+%26+ML+Enthusiastic;Always+Learning+New+Things">
-	</a>
+	<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=380&height=45&lines=IT+Student;Full+Stack+Web+Developer;Cloud+%26+ML+Enthusiastic;Always+Learning+New+Things">
+<!-- 	</a> -->
 </p>
 
 <hr>
