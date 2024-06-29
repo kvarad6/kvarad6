@@ -24,7 +24,7 @@ Hi, I'm Varad Kulkarni!
 🔭 Working on Cloud & Machine Learning Applications
 🌟 Main languages: Python, JavaScript, C++
 🚩 Interested in Full Stack Application development 
-🤔 Always open for opportunities</b>, this is <a href="https://drive.google.com/file/d/1n6_gMq9bKiyr1_YhkgtaMaTLWAxbuPO9/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 Always open for opportunities</b>, this is <a href="https://drive.google.com/file/d/1M8XSIjaN8c3hFoknlJ-ikJvXo_IsFn4g/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
